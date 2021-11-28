@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discount Calculator</string>
+    <string name="original_price_text">original price</string>
+    <string name="reduced_price_text">reduced price</string>
+    <string name="discount_text">discount</string>
+    <string name="calculate_discount_text">calculate discount</string>
+</resources>
